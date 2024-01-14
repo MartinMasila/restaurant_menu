@@ -13,7 +13,7 @@ This Website Provides a Menu of a Leading Restaurant in Africa. It defines the B
 <img src="assets\Screenshot 7.png" alt="Screensot7">
 
 ## Live Link
-View the live project:   <a href="">View Live</a>
+View the live project:   <a href="https://martinmasila.github.io/restaurant_menu/">View Live</a>
 
 ## Features
 1. Home
